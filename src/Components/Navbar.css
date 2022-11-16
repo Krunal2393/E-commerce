@@ -1,0 +1,47 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+
+  width: 100vw;
+  background-color: #b099423d;
+  padding: 32px;
+  height: 15px;
+}
+.nav .active {
+  font-weight: 800;
+}
+.nav a {
+  color: black;
+  text-decoration: none;
+}
+.container {
+  width: 70%;
+  height: 504px;
+  margin-top: 73px;
+  box-shadow: 1px 13px 20px 1px black;
+  background-color: #000000a1;
+  
+  /*display: none; */
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+.listning{
+  height: 74px;
+  border-radius: 22px;
+}
+
+.item_setting{
+  display: flex;
+}
+.mb-1{
+margin: 0px 2px;
+}
+.text{
+margin: 0px 20px;
+}

@@ -1,0 +1,56 @@
+.card_a{
+    width: 400px;
+    border: 1px solid red;
+    height: 400px;
+    box-shadow: 2px 1px 4px 4px;
+    padding: 21px;
+    margin-top: 33px;
+    position: relative;
+    background-color: blanchedalmond;
+    
+}
+.body{
+    
+    height: 100%;
+    width: 100%;
+}
+.card{
+    margin-top: auto;
+}
+
+
+.containers{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+    
+}
+
+
+
+     
+    
+
+
+/*.card_a, .card_b, .card_c{
+    z-index: -2;
+
+}*/
+
+
+
+
+ 
+ .main {
+     margin-right: 10px;
+     text-align: center;
+     display: flex;
+     flex-direction: row;
+     align-content: stretch;
+     justify-content: flex-end;
+     background-color: aqua;
+     flex: left  ;
+ }
+ 
+ 
